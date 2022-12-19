@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zementaa
+- 👋 Hi, I’m Zementaa
 - 👀 I’m interested in all kinds of new technologies.
 - 🌱 I’m currently learning more about algorithms.
 - 💞️ I’m looking to collaborate on fancy app projects.
